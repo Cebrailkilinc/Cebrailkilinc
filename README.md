@@ -1,6 +1,8 @@
-# Merhabalar, I'm Cebrail 👋
+# Hi, I'm Cebrail 👋
 
-## I'm a Frontend Developer. I have been developing myself on front-end tecnologies for about 1 year. I love meeting new technologies and understanding them. I want to ## improve myself a lot in this regard.
+## I'm a Frontend Developer. I have been developing myself on front-end tecnologies for about 1 year. I love meeting new technologies and understanding them. I want to improve myself a lot in this regard.
+
+[I'm an inline-style link](https://www.google.com)
 <!--
 **Cebrailkilinc/Cebrailkilinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
