@@ -1,4 +1,4 @@
-### Hi there 👋
+### Merhabalar 👋
 
 Adım Cebrail. Frontend Developer'm . Yaklaşık  yıldan fazla süredir frontend teknolojileri üzerinde kendimi geliştiriyorum
 
