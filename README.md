@@ -3,6 +3,7 @@
 ## I'm a Frontend Developer. I have been developing myself on front-end tecnologies for about 1 year. I love meeting new technologies and understanding them. I want to improve myself a lot in this regard.
 
 [I'm an inline-style link](https://www.google.com)
+https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1"
 <!--
 **Cebrailkilinc/Cebrailkilinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
