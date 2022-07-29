@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Adım Cebrail. Frontend Developer'm . Yaklaşık  yıldan fazla süredir frontend teknolojileri üzerinde kendimi geliştiriyorum
+
 <!--
 **Cebrailkilinc/Cebrailkilinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
