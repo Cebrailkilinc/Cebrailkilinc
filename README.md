@@ -1,6 +1,6 @@
 <h3 align="center">Hi, I'm Cebrail 👋</h3> 
 
-### I'm a Frontend Developer. I have been developing myself on front-end tecnologies for about 1 year. I love meeting new technologies and understanding them. I want to improve myself a lot in this regard.
+### I'm a Frontend Developer. I have been developing myself on front-end tecnologies for about 2 year. I like meeting new technologies and understanding them. I want to improve myself a lot in this regard.
 
 
 
